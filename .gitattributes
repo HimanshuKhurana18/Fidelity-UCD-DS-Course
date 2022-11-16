@@ -1,0 +1,2 @@
+indicators[[:space:]](1).sqlite filter=lfs diff=lfs merge=lfs -text
+indicators.sqlite filter=lfs diff=lfs merge=lfs -text
